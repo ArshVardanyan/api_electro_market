@@ -1,0 +1,81 @@
+[
+	
+	{
+		"image": "https://i.pinimg.com/564x/c1/24/4e/c1244e1250ea38295515c7bb43776168.jpg",
+		"bramd_name": "Sony ",
+		"model": "FE 24-105mm F4 G",
+		"description": "Digital Camera, Digital Slr, Full Frame, Fullframe Digital Slr. It has a resolution of 900x900 pixels",
+		"price": "550$",
+	},
+	{
+		"image": "https://i.pinimg.com/736x/01/b0/38/01b0384f1584f10952d227cd8bf356ad.jpg",
+		"bramd_name": "CANON",
+		"model":  "EOS M50 Mark",
+		"description": "Canon EOS M50 Mark II Mirrorless Camera with EF-M 15-45mm f/3.5-6.3 IS STM in Black",
+		"price": "480$",
+	},
+	{
+		"image": "https://i.pinimg.com/564x/2d/eb/a4/2deba47343f61a71f3f1fb7b06b1714f.jpg",
+		"bramd_name": "NVIDIA Geforce",
+		"model":  "RTX 4090",
+		"description": "16,384 NVIDIA CUDA CoresSupports 4K 120Hz HDR, 8K 60Hz HDR, and Variable Refresh Rate as specified in HDMI 2.1aNew Streaming Multiprocessors: Up to 2x performance and power efficiencyFourth-Gen Tensor Cores: Up to 2x AI performanceThird-Gen RT Cores: ",
+		"price": "1560$",
+	},
+	{
+		"image": "https://i.pinimg.com/736x/ba/9d/1d/ba9d1dbacab1804dd2f9839a8409296a.jpg",
+		"bramd_name": "PC Desktop MSI",
+		"model":  "MSI Z790",
+		"description": "Intel core i9 13900k RTX 4090",
+		"price": "4500$",
+	},
+	{
+		"image": "https://i.pinimg.com/564x/c8/27/bb/c827bba6c064ecedb9aeb88cf3fe5d22.jpg",
+		"bramd_name": "ASUS",
+		"model":  "ROG Z490-E",
+		"description": "The flagship ROG Strix Z490-E Gaming motherboard features boosted power delivery, optimized cooling, WiFi 6, and AI Overclocking, AI Cooling and AI Networking. ",
+		"price": "280$",
+	},
+	{
+		"image": "https://i.pinimg.com/564x/62/48/58/6248584b5c6938bc27598ca62a13e614.jpg",
+		"bramd_name": "MSI",
+		"model":  "MEG Z390 ",
+		"description": "MSI MEG Z390 GODLIKE",
+		"price": "450$",
+	},
+	{
+		"image": "https://i.pinimg.com/564x/1b/3a/d9/1b3ad914cdbe02566fff331bd7808565.jpg",
+		"bramd_name": "NVIDIA Geforce",
+		"model":  "RTX 2080Ti",
+		"description": "NVIDIA Geforce RTX 2080 and 2080 Ti",
+		"price": "1450$",
+	},
+	{
+		"image": "https://i.pinimg.com/564x/4a/6a/97/4a6a97eea18e38c0986c7725cbd32724.jpg",
+		"bramd_name": "Thinner Intel Skylake",
+		"model":  "third-party CPU coolers",
+		"description": "Thinner Intel Skylake CPUs are breaking because of third-party CPU coolers",
+		"price": "105$",
+	},
+	{
+		"image": "https://i.pinimg.com/564x/81/05/f0/8105f0743e9eb3aa4893b7420025a161.jpg",
+		"bramd_name": "Thermalright",
+		"model":  "CPU cooler the True Spirit 120M Rev.B by Thermalright",
+		"description": "It may not be able to compete with larger models but for a compact CPU cooler the True Spirit 120M Rev.B by Thermalright actually surpassed our performance",
+		"price": "110$",
+	},
+	{
+		"image": "https://i.pinimg.com/564x/94/e4/11/94e4111ca36636be12ef591e0b8ae215.jpg",
+		"bramd_name": "Silverston",
+		"model":  "ST60F-PB",
+		"description": "PSU (80+ Bronze) Silverstone ST60F-PB (600w.)",
+		"price": "245$",
+	},
+	{
+		"image": "https://i.pinimg.com/564x/49/22/7a/49227a47bf2cc53112f2523201388aae.jpg",
+		"bramd_name": "SAHARA",
+		"model":  "PW022",
+		"description": "PSU (80+ Bronze) SAHARA PW022 750w.",
+		"price": "239$",
+	},
+
+]
